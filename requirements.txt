@@ -12,7 +12,7 @@ Click==7.0
 configglue==1.1.2
 configobj==5.0.6
 cryptography==1.2.3
-defer==1.0.6
+defer==1.0.4
 dirspec==13.10
 docker-compose==1.8.0
 docker-py==1.9.0
