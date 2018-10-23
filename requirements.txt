@@ -12,7 +12,6 @@ Click==7.0
 configglue==1.1.2
 configobj==5.0.6
 cryptography==1.2.3
-debtags==2.0
 defer==1.0.6
 dirspec==13.10
 docker-compose==1.8.0
