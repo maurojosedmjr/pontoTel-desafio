@@ -17,7 +17,6 @@ docker-compose==1.8.0
 docker-py==1.9.0
 dockerpty==0.4.1
 docopt==0.6.2
-duplicity==0.7.6
 ecdsa==0.13
 enum34==1.1.2
 feedparser==5.1.3
