@@ -2,7 +2,6 @@
 import bs4
 import requests
 import json
-import asyncio
 
 from cachetools import cached, TTLCache
 cache = TTLCache(maxsize=100, ttl=300)
